@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "54e80a51-7b54-4905-a0c5-8a898463be7b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 5.08 22.86)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3a109753-d504-4a9b-a841-397607579b77")
+		(property "Sheetname" "SCT3811"
+			(at 5.08 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SCT3811.kicad_sch"
+			(at 5.08 27.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sicomm_slaveboard_BK4819_v2"
+				(path "/54e80a51-7b54-4905-a0c5-8a898463be7b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 5.08)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ecf3a5aa-3a28-4b8e-9b25-b32205100f6b")
+		(property "Sheetname" "Amplifier"
+			(at 5.08 4.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Amplifier.kicad_sch"
+			(at 5.08 9.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sicomm_slaveboard_BK4819_v2"
+				(path "/54e80a51-7b54-4905-a0c5-8a898463be7b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 13.97)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ff6b0692-d420-45ac-bed3-3bd76ff26f16")
+		(property "Sheetname" "PCB_sicomm_bk4819"
+			(at 5.08 13.2584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCB_sicomm_bk4819.kicad_sch"
+			(at 5.08 18.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sicomm_slaveboard_BK4819_v2"
+				(path "/54e80a51-7b54-4905-a0c5-8a898463be7b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
