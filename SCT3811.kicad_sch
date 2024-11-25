@@ -15865,7 +15865,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad_foorprint:L0402"
 			(at 52.07 119.38 0)
 			(effects
 				(font
